@@ -1,12 +1,19 @@
 evpp 
-dependent
-libevent
-glog
-gtest (optional)
-boost (optional)
-gflags (optional)
-thrift (optional)
-libthrift (optional)
+### Dependencies
+* [libevent][1]
+* [glog][2]
+* [gtest (optional)][3]
+* [boost (optional)][4]
+* [gflags (optional)][5]
+* [thrift (optional)][6]
+* [libthrift (optional)][7]
+[1]: https://github.com/wanghonggao007/libevent
+[2]: https://github.com/wanghonggao007/glog
+[3]: https://github.com/wanghonggao007/glog
+[4]: https://github.com/json-c/json-c
+[5]: http://www.digip.org/jansson/
+[6]: http://github.com/wanghonggao007/libev
+[7]: http://github.com/wanghonggao007/libevbuffsock
 ---
 
 

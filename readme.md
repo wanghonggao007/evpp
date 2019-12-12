@@ -9,11 +9,7 @@ evpp
 * [libthrift (optional)][7]
 [1]: https://github.com/wanghonggao007/libevent
 [2]: https://github.com/wanghonggao007/glog
-[3]: https://github.com/wanghonggao007/glog
-[4]: https://github.com/json-c/json-c
-[5]: http://www.digip.org/jansson/
-[6]: http://github.com/wanghonggao007/libev
-[7]: http://github.com/wanghonggao007/libevbuffsock
+
 ---
 
 

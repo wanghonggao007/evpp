@@ -18,7 +18,7 @@ evpp
  * [gflags (optional)][5]
  * [thrift (optional)][6]
  * [libthrift (optional)][7]
-[1]: http://github.com/wanghonggao007/libevent
+[1]: http://github.com/wanghonggao007/libevbuffsock
 [2]: http://github.com/wanghonggao007/glog
 
 ---

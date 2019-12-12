@@ -1,14 +1,5 @@
 evpp 
 ### Dependencies
- * [curl][8]
- * [libev][6]
- * [libevbuffsock][7]
- * [json-c][9] or [jansson][5]
-
-
-[7]: http://github.com/wanghonggao007/libevbuffsock
-[8]: http://github.com/wanghonggao007/curl
-[9]: http://github.com/wanghonggao007/json-c
 
 ### Dependencies
  * [libevent][1]
@@ -20,8 +11,8 @@ evpp
  * [libthrift (optional)][7]
  
  
-[1]: http://github.com/wanghonggao007/libevbuffsock
-[2]: http://github.com/wanghonggao007/libevbuffsock
+[1]: http://github.com/wanghonggao007/libevent
+[2]: http://github.com/wanghonggao007/glog
 
 
 ---

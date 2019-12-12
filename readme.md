@@ -16,13 +16,13 @@ evpp
 [9]: http://github.com/wanghonggao007/json-c
 
 ### Dependencies
-* [libevent][1]
-* [glog][2]
-* [gtest (optional)][3]
-* [boost (optional)][4]
-* [gflags (optional)][5]
-* [thrift (optional)][6]
-* [libthrift (optional)][7]
+ * [libevent][1]
+ * [glog][2]
+ * [gtest (optional)][3]
+ * [boost (optional)][4]
+ * [gflags (optional)][5]
+ * [thrift (optional)][6]
+ * [libthrift (optional)][7]
 [1]: https://github.com/wanghonggao007/libevent
 [2]: https://github.com/wanghonggao007/glog
 

@@ -1,5 +1,4 @@
 evpp 
-### Dependencies
 
 ### Dependencies
  * [libevent][1]

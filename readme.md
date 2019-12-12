@@ -23,8 +23,8 @@ evpp
  * [gflags (optional)][5]
  * [thrift (optional)][6]
  * [libthrift (optional)][7]
-[1]: https://github.com/wanghonggao007/libevent
-[2]: https://github.com/wanghonggao007/glog
+[1]: http://github.com/wanghonggao007/libevent
+[2]: http://github.com/wanghonggao007/glog
 
 ---
 

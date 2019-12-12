@@ -1,4 +1,12 @@
 evpp 
+dependent
+libevent
+glog
+gtest (optional)
+boost (optional)
+gflags (optional)
+thrift (optional)
+libthrift (optional)
 ---
 
 
